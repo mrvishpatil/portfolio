@@ -1,0 +1,54 @@
+body {
+  background-color: #282828 !important;
+  margin: 0;
+  text-align: center;
+}
+
+.intro-h1 {
+  display: block;
+  letter-spacing: 0.5px;
+  color: #fff;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5em;
+  font-weight: 900;
+  margin: 0.5em auto;
+}
+.intro-h1:hover {
+  color: cyan;
+  letter-spacing: 0.5px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5em;
+  font-weight: 700;
+  margin: 0.5em auto;
+  text-decoration: none;
+}
+
+.intro-text {
+  color: #fff;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 1.6;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 200;
+}
+
+/* ***************** Class Css ****************** */
+.profile-img {
+  border-radius: 150px;
+  height: 150px;
+  width: 150px;
+}
+
+.intro-div {
+  text-align: center;
+  max-width: 800px;
+  margin: 3em auto;
+  padding: 0 2em;
+}
+
+hr {
+  color: cyan;
+  width: 5%;
+  border: dotted 5px !important;
+  border-bottom: 0 !important;
+}
